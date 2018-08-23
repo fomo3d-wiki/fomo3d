@@ -1,10 +1,10 @@
 # fomo3d
 
 **Chat-1**
-讲解：fomo3d的游戏攻略
+讲解：fomo3d的游戏攻略:https://github.com/fomo3d-wiki/fomo3d/tree/master/Chat-1
 
 **Chat-2**
-讲解：类fomo3d游戏攻略
+讲解：类fomo3d游戏攻略:https://github.com/fomo3d-wiki/fomo3d/tree/master/Chat-2
 
 **Chat-3**
 讲解：区块链算法加密demo
