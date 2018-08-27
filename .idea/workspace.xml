@@ -1,7 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1caaf76-9c5b-4667-9e26-03aacd300894" name="Default" comment="" />
+    <list default="true" id="b1caaf76-9c5b-4667-9e26-03aacd300894" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/JsonRpc.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/JsonRpc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/build/phpcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/build/phpcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/example.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/example.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/altcoin_offline_wallet.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/altcoin_offline_wallet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/bip32.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/bip32.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/bip32_preparing_multisig.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/bip32_preparing_multisig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/bip32_sign.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/bip32_sign.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/bip39.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/bip39.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/bitcoin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/bitcoin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/electrum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/electrum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/electrum_sign_multisig.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/electrum_sign_multisig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/multisig.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/multisig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/order_multisig.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/order_multisig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/prompt_sign_multisig.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/prompt_sign_multisig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/raw_transaction.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/raw_transaction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/sign_p2sh.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/sign_p2sh.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/sign_p2sh_stepbystep.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/sign_p2sh_stepbystep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/signature_verification.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/signature_verification.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/examples/test_bip32.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/examples/test_bip32.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/BIP32.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/BIP32.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/BIP39/BIP39.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/BIP39/BIP39.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/BIP39/BIP39EnglishWordList.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/BIP39/BIP39EnglishWordList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/BIP39/BIP39WordList.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/BIP39/BIP39WordList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/BitcoinLib.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/BitcoinLib.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/Electrum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/Electrum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/Jsonrpcclient.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/Jsonrpcclient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/src/RawTransaction.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/src/RawTransaction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/AgainstRPCTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/AgainstRPCTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/BIP32CoreTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/BIP32CoreTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/BIP32Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/BIP32Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/BIP39Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/BIP39Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/BitcoinLibTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/BitcoinLibTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/BitcoinLibTestNetTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/BitcoinLibTestNetTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/RawTransactionTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/RawTransactionTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/SignVerifyMessageTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/SignVerifyMessageTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/data/signverify.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/data/signverify.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/bitwasp/bitcoin-lib/tests/testElectrum.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/bitwasp/bitcoin-lib/tests/testElectrum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/blockchain_account.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/blockchain_account.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/client.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/include_paths.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/include_paths.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/.scrutinizer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/.scrutinizer.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/doc/bcmath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/doc/bcmath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/doc/gmp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/doc/gmp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/doc/hw_details.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/doc/hw_details.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/phpcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/phpcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/CurveFp.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/CurveFp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/CurveFpInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/CurveFpInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Curves/NistCurve.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Curves/NistCurve.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Curves/SecgCurve.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Curves/SecgCurve.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/EcDH.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/EcDH.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/EcDHInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/EcDHInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/EccFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/EccFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/GeneratorPoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/GeneratorPoint.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Infinity.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Infinity.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Math/BcMath.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Math/BcMath.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Math/BcMathUtils.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Math/BcMathUtils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Math/DebugDecorator.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Math/DebugDecorator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Math/Gmp.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Math/Gmp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/MathAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/MathAdapter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/NumberTheory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/NumberTheory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Point.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Point.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/PointInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/PointInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Points.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Points.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/PrivateKey.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/PrivateKey.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/PrivateKeyInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/PrivateKeyInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/PublicKey.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/PublicKey.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/PublicKeyInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/PublicKeyInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/Signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/Signature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/src/SignatureInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/src/SignatureInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/data/compression.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/data/compression.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/data/primes.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/data/primes.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/data/square_root_mod_p.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/data/square_root_mod_p.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/AbstractTestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/AbstractTestCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/Curves/NistCurveTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/Curves/NistCurveTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/Curves/SecCurveTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/Curves/SecCurveTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/EcArithmeticTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/EcArithmeticTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/InfinityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/InfinityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/MathTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/MathTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/NumberTheoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/NumberTheoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/mdanter/ecc/tests/unit/PointTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/Chat-3/block_chain_account/demo/mdanter/ecc/tests/unit/PointTest.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +137,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1688" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
@@ -92,17 +198,17 @@
       <option name="presentableId" value="Default" />
       <updated>1535010440634</updated>
       <workItem from="1535010442714" duration="1510000" />
-      <workItem from="1535370722350" duration="1042000" />
+      <workItem from="1535370722350" duration="1285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2552000" />
+    <option name="totallyTimeSpent" value="2795000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="6" />
+    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16748166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16748166" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -111,7 +217,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297414" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286638" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286638" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,7 +262,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/blockchain_account.php">
+    <entry file="file://$PROJECT_DIR$/Chat-3/block_chain_account/demo/blockchain_account.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />

@@ -36,7 +36,7 @@ class JsonRpc
         curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
         curl_setopt($ch, CURLOPT_POST, TRUE);
         curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
-        //exit(var_dump($data));
+
         $ret = curl_exec($ch);
 
         if($ret !== FALSE)
