@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1caaf76-9c5b-4667-9e26-03aacd300894" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1caaf76-9c5b-4667-9e26-03aacd300894" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +49,6 @@
               <item name="fomo3d-wiki" type="b2602c69:ProjectViewProjectNode" />
               <item name="fomo3d-wiki" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fomo3d-wiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fomo3d-wiki" type="462c0819:PsiDirectoryNode" />
-              <item name="Chat-3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -70,6 +63,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fomo3d-wiki\Chat-3\区块链-账户体系" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,17 +92,17 @@
       <option name="presentableId" value="Default" />
       <updated>1535010440634</updated>
       <workItem from="1535010442714" duration="1510000" />
-      <workItem from="1535370722350" duration="713000" />
+      <workItem from="1535370722350" duration="1042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2223000" />
+    <option name="totallyTimeSpent" value="2552000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1491" y="61" width="1696" height="1062" extended-state="0" />
+    <frame x="-1688" y="-8" width="1696" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2555012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16748166" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -113,7 +111,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297414" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32938644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286638" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -155,6 +153,17 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chat-3/区块链-账户体系/block_chain_account/blockchain_account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#6#125#0#PHP" expanded="true" />
+            <element signature="e#126#155#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
