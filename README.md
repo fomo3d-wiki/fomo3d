@@ -24,3 +24,8 @@
 如感兴趣，请直接加入，邮件:lucklidi@126.com，微信ID:adi1427569517
 
 打赏地址( if you want give me coffee, i would say no~ )：ETH:0x104F8FE69dF59fe4c27dd487779D49A9Ec5caCC9
+
+**or you can scan it**
+![Image text](https://github.com/fomo3d-wiki/fomo3d/blob/master/src/images/author-eth-account.jpg)
+
+
