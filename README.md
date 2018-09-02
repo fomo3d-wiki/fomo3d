@@ -16,8 +16,10 @@
 **demo**：  
 
 加密：
-**demo**：        
-
+**demo**： 
+       
+**Chat-4**
+讲解：区块链-原理与设计：https://github.com/fomo3d-wiki/books/tree/master/1-%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1
 
 如感兴趣，请直接加入，邮件:lucklidi@126.com，微信ID:adi1427569517
 
