@@ -13,7 +13,7 @@
 **demo**：https://github.com/fomo3d-wiki/block_chain_account
 
 算法：
-**demo**：  
+**demo**：  离线签名：https://github.com/fomo3d-wiki/node-sendRawTransaction
 
 加密：
 **demo**： 
