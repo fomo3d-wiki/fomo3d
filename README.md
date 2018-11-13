@@ -1,5 +1,7 @@
 # fomo3d
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/fomo3d-wik)
+
 **Chat-1**
 讲解：fomo3d的游戏攻略:https://github.com/fomo3d-wiki/fomo3d/tree/master/Chat-1
 
