@@ -35,7 +35,7 @@ Ethereum: 0x104F8FE69dF59fe4c27dd487779D49A9Ec5caCC9
 ```
 # License
 
-Completely MIT Licensed. Including ALL dependencies. If you love or like it ！Please jion us!
+Completely MIT Licensed. Including ALL dependencies. If you love or like it ！Please join us!
 ```go
 E-mail:lucklidi@126.com，WechatID:adi1427569517
 ```
